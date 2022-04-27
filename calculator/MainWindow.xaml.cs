@@ -18,6 +18,7 @@ namespace calculator
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
+    /// //Test  
     public partial class MainWindow : Window
     {
         public MainWindow()
